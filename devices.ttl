@@ -759,3 +759,11 @@ _:mod-dwarf device:inputs 1 .
 _:mod-dwarf device:outputs 1 .
 _:mod-dwarf device:typeA true .
 _:mod-dwarf device:uri "https://moddevices.com/products/dwarf" .
+
+# - Embodme Erae Touch (Output; Type A)
+_:embodme-eraetouch device:make "Embodme" .
+_:embodme-eraetouch device:model "Erae Touch" .
+_:embodme-eraetouch device:outputs 1 .
+_:embodme-eraetouch device:typeA true .
+_:embodme-eraetouch device:notes "Not yet in manual but confirmed by email" .
+_:embodme-eraetouch device:uri "https://www.embodme.com/" .
